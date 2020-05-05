@@ -12,7 +12,7 @@
 For last stable release (v2) go [here](https://github.com/michalsnik/aos/tree/v2)
 
 ---
-### 🚀 [Demo](http://michalsnik.github.io/aos/)
+### 🚀 [Demo](https://michalsnik.github.io/aos/)
 
 ### 🌟 Codepen Examples
 - [Different built-in animations](http://codepen.io/michalsnik/pen/WxNdvq)
